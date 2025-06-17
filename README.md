@@ -129,4 +129,4 @@ MIT © 2025 Leart Hiseni
 
 ## 💡 Author
 
-**[Leart Hiseni]** — CST student passionate about scalable systems and real-time apps.
+**Leart Hiseni** — CST student passionate about scalable systems and real-time apps.
